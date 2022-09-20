@@ -1364,6 +1364,7 @@ int main(int argc, char **argv) {
                 printf(" [%d] PPI\n", PPI);
                 printf(" [%d] NORDIC_BLE_SNIFFER_META\n", NORDIC_BLE_SNIFFER_META);
                 printf(" [%d] NORDIC_BLE\n", NORDIC_BLE);
+                printf(" [%d] BLUETOOTH_LE_LL\n", BLUETOOTH_LE_LL);
                 goto err_out;
                 return 1;
     }
