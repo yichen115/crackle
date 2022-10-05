@@ -1,3 +1,5 @@
+    $ sudo apt-get install libpcap-dev
+
 ![crackle](https://raw.github.com/mikeryan/crackle/logo/crackle.png "crackle")
 
 crackle cracks BLE Encryption (AKA Bluetooth Smart).
