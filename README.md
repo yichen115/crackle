@@ -1,4 +1,4 @@
-    $ sudo apt-get install libpcap-dev
+    sudo apt-get install libpcap-dev
 
 ![crackle](https://raw.github.com/mikeryan/crackle/logo/crackle.png "crackle")
 
